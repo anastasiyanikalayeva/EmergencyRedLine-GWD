@@ -10,12 +10,6 @@ This is an interactive HTML5 banner ad built with **Google Web Designer**. The p
 - ✅ Clean and modern visual design
 - ✅ Optimized for web deployment
 
-## 📁 Project Structure
-
-├── index.html # Main HTML file with embedded styles and animations
-├── assets/ # (Optional) Folder for images, fonts, or other media
-└── README.md # You're here!
-
 ## 📦 Tools & Technologies
 
 - **Google Web Designer** (for building and animating)
